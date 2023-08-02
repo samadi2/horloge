@@ -12,9 +12,10 @@
 }
 body{
     display: flex;
-    justify-content: center;
+    flex-direction: column;
     align-items: center;
     min-height: 100vh;
+    padding-top: 10%;
     background: #091921;
 }
 h1{
